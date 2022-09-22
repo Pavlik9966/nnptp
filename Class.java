@@ -1,1 +1,1 @@
-public class Class { }
+public class Class { :c }
